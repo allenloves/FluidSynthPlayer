@@ -1,0 +1,5 @@
+module CFluidSynth [system] {
+  header "/opt/homebrew/opt/fluid-synth/include/fluidsynth.h"
+  link "fluidsynth"
+  export *
+}
