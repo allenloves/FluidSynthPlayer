@@ -25,3 +25,8 @@ accurate across tempo changes.
 ```
 
 Revert the file association with e.g. `duti -s com.apple.logic10 public.midi-audio all`.
+
+## License
+
+MIT — see [LICENSE](LICENSE). FluidSynth is LGPL-2.1-or-later and is linked dynamically;
+GeneralUser GS is not included and has its own license.
